@@ -20,7 +20,7 @@ Project-Image-Path
 -->
 
 [comment]: <> ([![Status][developement-shield]][developement-shiled-url])
-
+[![Demo][Demo-shield]][Demo-url]
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -41,7 +41,7 @@ Project-Image-Path
   <p align="center">
     Robotics, Maze solving bot, Ardunio, Bot, C++
     <br />
-    <a href="https://github.com/rohitdavas/Mazex">View Demo</a>
+    <a href="https://drive.google.com/file/d/1qp73AM8Wkmt3q6aSiS0lo3m-I-qnNLeS/view?usp=sharing">View Demo</a>
     ·
     <a href="https://github.com/rohitdavas/Mazex/issues">Report Bug</a>
     ·
@@ -145,6 +145,8 @@ Team member - [Vaidehi Som](https://www.github.com/VaidehiSom)
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
+[Demo-shield]: https://img.shields.io/static/v1?label=Demo&message=GDrive&color=blueviolet
+[Demo-url]:https://drive.google.com/file/d/1qp73AM8Wkmt3q6aSiS0lo3m-I-qnNLeS/view?usp=sharing
 [contributors-shield]: https://img.shields.io/github/contributors/rohitdavas/Mazex.svg?style=for-the-badge
 [contributors-url]: https://github.com/rohitdavas/Mazex/graphs/contributors
 
