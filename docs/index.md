@@ -41,7 +41,7 @@ Project-Image-Path
   <p align="center">
     Robotics, Maze solving bot, Ardunio, Bot, C++
     <br />
-    <a href="https://github.com/rohitdavas/Mazex">View Demo</a>
+    <a href="https://github.com/rohitdavas/Mazex/video/video.mp4">View Demo</a>
     ·
     <a href="https://github.com/rohitdavas/Mazex/issues">Report Bug</a>
     ·
